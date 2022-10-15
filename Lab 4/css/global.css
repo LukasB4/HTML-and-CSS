@@ -1,0 +1,64 @@
+
+.container{
+	width: 750px;
+	margin: 0 auto;
+	padding: 50px 0;
+    background-color:#4B080E;
+}
+html{
+    background-color: #650E15;
+}
+h1{
+    text-align: center;
+    color:F5F5F5;
+    font-family: 'Dancing Script', cursive;
+    color:red;
+    
+    
+}
+img{
+    border: 3px solid;
+    border-color: white;
+}
+h2{
+    background-color: black;
+    color:white;
+    text-align: center;
+}
+h3{
+    color: white;
+    text-align: center;
+}
+blockquote{
+    background-color:#650E15;
+    font-size: 20px;
+}
+p{
+ padding-bottom: 10px;
+ padding-left: 10px;
+ padding-right: 10px;
+ background-color: black;
+ border-radius:10px;
+ line-height: 1.5;
+ color:white;
+}
+li{
+    color:white;
+    background-attachment: fixed;
+    background-color: black;
+    display: inline;
+    padding:auto;
+    margin:auto;
+}
+h4{
+    color: white;
+    margin-left: 10px;
+}
+h5{
+    color:white;
+    margin-left: 10px;
+}
+h6{
+    color:white;
+    margin-left: 10px;
+}

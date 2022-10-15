@@ -1,0 +1,50 @@
+.some-page-wrapper {
+    margin: 15px;
+    background-color: #D5C1AA;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 100%;
+    flex: 1;
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-right: 10px;
+}
+
+.orange-column {
+    font-size: 20px;
+    font-family: 'Xanh Mono', monospace;
+    font-weight: bold;
+    height: 500px;
+    background-color: whitesmoke;
+}
+
+.blue-column {
+    background-color: whitesmoke;
+    font-family: 'Xanh Mono', monospace;
+    font-size: 20px;
+    font-weight: bold;
+    height: 500px;
+}
+
+.green-column {
+    background-color: whitesmoke;
+    font-family: 'Xanh Mono', monospace;
+    font-size: 20px;
+    font-weight: bold;
+    height: 500px;
+
+}
+body{
+    background-color: #2B2D2F;
+}
+

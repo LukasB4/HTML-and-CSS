@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+.main-text{
+    text-align: center;
+    padding-top: 300px;
+    font-size: 30px;
+    position: relative;
+}
+footer{
+    bottom: 20px;
+    right: 20px;
+    position: fixed;
+    background-color: #BEDAF5;
+    color: #000000;
+    text-align: right;
+    padding: 5px;
+}
+
+.sky{
+    background-image: url(../images/Sky.jpg);
+    background-size: cover;
+    height: 500px;
+    width: 500px;
+    margin: auto;
+}
+.skiing{
+    background-image: url(../images/Skiing.jpg);
+    background-size: cover;
+    height: 500px;
+    width: 500px;
+    margin: auto;
+}
+.snow{
+    background-image: url(../images/Snow.jpg);
+    background-size: cover;
+    height: 500px;
+    width: 500px;
+    margin: auto;
+}
